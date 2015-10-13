@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+
+#score {
+    font-family: "Righteous", cursive;
+    font-size: 30px;
+    color: purple;
+}
+
+#title {
+    font-family: "Righteous", cursive;
+    font-size: 50px;
+    margin-top: 20px;
+    background: linear-gradient(#ff0000, #ffff00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+}
